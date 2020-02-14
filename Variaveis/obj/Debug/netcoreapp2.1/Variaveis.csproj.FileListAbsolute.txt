@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\Aula2\Variaveis\Variaveis\bin\Debug\netcoreapp2.1\Variaveis.deps.json
+C:\Users\Aluno\Desktop\Aula2\Variaveis\Variaveis\bin\Debug\netcoreapp2.1\Variaveis.runtimeconfig.json
+C:\Users\Aluno\Desktop\Aula2\Variaveis\Variaveis\bin\Debug\netcoreapp2.1\Variaveis.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\Aula2\Variaveis\Variaveis\bin\Debug\netcoreapp2.1\Variaveis.dll
+C:\Users\Aluno\Desktop\Aula2\Variaveis\Variaveis\bin\Debug\netcoreapp2.1\Variaveis.pdb
+C:\Users\Aluno\Desktop\Aula2\Variaveis\Variaveis\obj\Debug\netcoreapp2.1\Variaveis.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Aula2\Variaveis\Variaveis\obj\Debug\netcoreapp2.1\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Aula2\Variaveis\Variaveis\obj\Debug\netcoreapp2.1\Variaveis.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\Aula2\Variaveis\Variaveis\obj\Debug\netcoreapp2.1\Variaveis.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\Aula2\Variaveis\Variaveis\obj\Debug\netcoreapp2.1\Variaveis.dll
+C:\Users\Aluno\Desktop\Aula2\Variaveis\Variaveis\obj\Debug\netcoreapp2.1\Variaveis.pdb
